@@ -1,3 +1,3 @@
 snake
 =====
-![github](http://github.com/deliangyang/snake/snake.jpg "snake")
+![snale](https://github.com/deliangyang/snake/blob/master/snake.jpg "snake")
